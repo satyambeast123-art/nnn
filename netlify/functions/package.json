@@ -1,0 +1,13 @@
+{
+  "name": "netlify-functions",
+  "version": "1.0.0",
+  "description": "Dependencies for Netlify serverless functions.",
+  "main": "generate-routine.ts",
+  "dependencies": {
+    "@google/genai": "^1.28.0"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^2.6.0",
+    "typescript": "^5.3.3"
+  }
+}
